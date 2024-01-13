@@ -1,0 +1,17 @@
+{
+  "name": "vanillajs-webpack-boilerplate",
+  "version": "1.0.0",
+  "description": "Vanilla JS Boilerplate with webpack5",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev" : "webpack-cli --config webpack.common.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.89.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
